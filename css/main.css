@@ -110,3 +110,7 @@ body {
 	padding-left: 20%;
 	border-left: 6px solid blue;
 }
+@media only screen and (max-width: 1280px) {
+	.column1 {width: 100%;}
+	.column2 {width: 100%;}
+}
